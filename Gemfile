@@ -1,5 +1,5 @@
 source "http://rubygems.org"
 gem "sinatra"
 gem "redcarpet", "~>2.0.0b5"
-gem "nokogiri"
+gem "nokogiri", ">= 1.18.4"
 gem "thin", "~>1.2.11"
